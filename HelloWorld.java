@@ -1,5 +1,6 @@
 public class HelloWorldc {
 	public static void main(String[] args){
-		System.out.println("HelloGitHub");
+		String words = "" ;
+		System.out.println(words+"HelloGitHub");
 	}
 }
